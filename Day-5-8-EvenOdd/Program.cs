@@ -6,3 +6,4 @@ if (num%2 == 0)
 }
 else
     Console.WriteLine("Number is Odd");
+//even odd
